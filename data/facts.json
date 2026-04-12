@@ -1,0 +1,96 @@
+[
+  {
+    "number": 200,
+    "suffix": "+",
+    "description": "Happy clients who\ntrust my work",
+    "image": "/img/illustrations/preview/star.webp",
+    "imageWidth": 800,
+    "imageHeight": 800,
+    "button": {
+      "text": "Studio",
+      "href": "/casestudy3",
+      "iconClass": "ph-bold ph-arrow-up-right",
+      "btnClass": "absolute starbtn"
+    },
+    "cardClass": "mxd-stats-cards__inner align-end bg-accent radius-m padding-4",
+    "counterId": "stats-counter-1",
+    "numberClass": "mxd-counter__number mxd-stats-number opposite",
+    "descrClass": "mxd-counter__descr t-140 t-bright opposite",
+    "imageClass": "mxd-stats-cards__image mxd-stats-cards-image-1",
+    "colClass": "col-12 col-xl-5 mxd-stats-cards__item mxd-grid-item anim-uni-scale-in-right"
+  },
+  {
+    "number": 95,
+    "suffix": "%",
+    "description": "Client Retention Rate",
+    "image": "/img/illustrations/preview/phonemobile.webp",
+    "imageWidth": 800,
+    "imageHeight": 800,
+    "avatars": [
+      {
+        "src": "https://i.ibb.co/MkwrXPTG/34635235262-1.webp",
+        "alt": "Avatar",
+        "width": 300,
+        "height": 300
+      },
+      {
+        "src": "https://i.ibb.co/C3bcKJkp/34635235262-2.webp",
+        "alt": "Avatar",
+        "width": 300,
+        "height": 300
+      },
+      {
+        "src": "https://i.ibb.co/2Yv39PdJ/34635235262.webp",
+        "alt": "Avatar",
+        "width": 300,
+        "height": 300
+      }
+    ],
+    "cardClass": "mxd-stats-cards__inner align-end bg-base-tint radius-m padding-4",
+    "counterId": "stats-counter-2",
+    "numberClass": "mxd-counter__number mxd-stats-number avatar-number",
+    "descrClass": "mxd-counter__descr t-140 t-bright",
+    "imageClass": "mxd-stats-cards__image mxd-stats-cards-image-2",
+    "colClass": "col-12 col-xl-7 mxd-stats-cards__item mxd-grid-item anim-uni-scale-in-left"
+  },
+  {
+    "number": 99.9,
+    "suffix": "%",
+    "description": "Uptime Across Deployed Systems",
+    "image": "/img/illustrations/preview/robot.webp",
+    "imageWidth": 800,
+    "imageHeight": 800,
+    "button": {
+      "text": "Start New Project",
+      "href": "/contact",
+      "iconClass": "ph-bold ph-arrow-down-right",
+      "btnClass": "absolute robotbtn"
+    },
+    "cardClass": "mxd-stats-cards__inner bg-base-tint radius-m padding-4",
+    "counterId": "stats-counter-3",
+    "numberClass": "mxd-counter__number mxd-stats-number",
+    "descrClass": "mxd-counter__descr t-140 t-bright",
+    "imageClass": "mxd-stats-cards__image mxd-stats-cards-image-3",
+    "colClass": "col-12 col-xl-7 mxd-stats-cards__item mxd-grid-item anim-uni-scale-in-right"
+  },
+  {
+    "number": 100,
+    "suffix": "%",
+    "description": "SSL & Secure Deployment",
+    "image": "/img/illustrations/preview/robot head.webp",
+    "imageWidth": 800,
+    "imageHeight": 800,
+    "button": {
+      "text": "Works",
+      "href": "/casestudy3",
+      "iconClass": "ph-bold ph-arrow-up-right",
+      "btnClass": "absolute robotbtn"
+    },
+    "cardClass": "mxd-stats-cards__inner bg-base-tint radius-m padding-4",
+    "counterId": "stats-counter-4",
+    "numberClass": "mxd-counter__number mxd-stats-number",
+    "descrClass": "mxd-counter__descr t-140 t-bright",
+    "imageClass": "mxd-stats-cards__image mxd-stats-cards-image-4",
+    "colClass": "col-12 col-xl-5 mxd-stats-cards__item mxd-grid-item anim-uni-scale-in-left"
+  }
+]

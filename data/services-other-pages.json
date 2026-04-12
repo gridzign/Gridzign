@@ -1,0 +1,94 @@
+[
+  {
+    "title": "Web Development",
+    "image": "/img/illustrations/360x440_list-01.webp",
+    "desc": "We build fast, secure, and scalable websites using modern frameworks and robust backend technologies. Every project is crafted for performance, user experience, and long-term growth.",
+    "tags": [
+      "UI/UX",
+      "Web design",
+      "Applications",
+      "Print design",
+      "Packaging",
+      "Motion",
+      "3D models"
+    ]
+  },
+  {
+    "title": "App Development",
+    "image": "/img/illustrations/360x440_list-02.webp",
+    "desc": "Our team develops high-performance mobile applications designed for seamless functionality across platforms. We focus on intuitive design, smooth performance, and scalable architecture.",
+    "tags": [
+      "Frontend",
+      "Interactions",
+      "Backend",
+      "E-Commerce",
+      "Mobile Apps",
+      "Maintenance",
+      "Support"
+    ]
+  },
+  {
+    "title": "Brand Identity",
+    "image": "/img/illustrations/360x440_list-03.webp",
+    "desc": "We create strong, memorable brand identities that reflect your vision and differentiate you in the market. From logo design to brand guidelines, we ensure consistency and impact.",
+    "tags": [
+      "Brand strategy",
+      "Logo design",
+      "Guidelines",
+      "Visual identity",
+      "Rebranding"
+    ]
+  },
+  {
+    "title": "SEO & Digital Marketing",
+    "image": "/img/illustrations/360x440_list-04.webp",
+    "desc": "We help businesses increase visibility, attract targeted audiences, and drive measurable growth through data-driven SEO and digital marketing strategies.",
+    "tags": [
+      "Strategy",
+      "Social media",
+      "SEO",
+      "Optimization",
+      "Email",
+      "Campaigns"
+    ]
+  },
+  {
+    "title": "Custom Software",
+    "image": "/img/illustrations/360x440_list-04.webp",
+    "desc": "We develop tailored software solutions that streamline operations, automate processes, and solve complex business challenges with efficiency.",
+    "tags": [
+      "Strategy",
+      "Social media",
+      "SEO",
+      "Optimization",
+      "Email",
+      "Campaigns"
+    ]
+  },
+  {
+    "title": "E-commerce Solutions",
+    "image": "/img/illustrations/360x440_list-04.webp",
+    "desc": "We build secure and conversion-focused online stores that enhance customer experience and maximize revenue potential.",
+    "tags": [
+      "Strategy",
+      "Social media",
+      "SEO",
+      "Optimization",
+      "Email",
+      "Campaigns"
+    ]
+  },
+  {
+    "title": "Cloud & Hosting Services",
+    "image": "/img/illustrations/360x440_list-04.webp",
+    "desc": "Reliable, secure, and high-speed hosting solutions designed to keep your business online and performing at its best. We ensure uptime, scalability, and technical reliability.",
+    "tags": [
+      "Strategy",
+      "Social media",
+      "SEO",
+      "Optimization",
+      "Email",
+      "Campaigns"
+    ]
+  }
+]

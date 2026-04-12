@@ -1,0 +1,33 @@
+{"approach1":[
+  {
+    "title": "Vision",
+    "description": "We envision a digital landscape where brands connect, engage, and grow through intelligent technology.",
+    "icon": "https://rayo-nextjs-creative-template.netlify.app/_next/image?url=%2Fimg%2Ficons%2Fh70_appr-05.webp&w=640&q=75"
+  },
+  {
+    "title": "Mission",
+    "description": "Our mission is to build reliable, scalable, and beautifully engineered digital solutions.",
+    "icon": "https://rayo-nextjs-creative-template.netlify.app/_next/image?url=%2Fimg%2Ficons%2Fh70_appr-01.webp&w=640&q=75"
+  },
+  {
+    "title": "Technology",
+    "description": "We leverage modern frameworks and tools to create high-performance platforms that deliver measurable results.",
+    "icon": "https://rayo-nextjs-creative-template.netlify.app/_next/image?url=%2Fimg%2Ficons%2Fh70_appr-02.webp&w=640&q=75"
+  },
+  {
+    "title": "Design Excellence",
+    "description": "Every interface is crafted with user experience and brand identity at its core.",
+    "icon": "https://rayo-nextjs-creative-template.netlify.app/_next/image?url=%2Fimg%2Ficons%2Fh70_appr-03.webp&w=640&q=75"
+  },
+  {
+    "title": "Collaboration",
+    "description": "We believe great products are built through strong partnerships and shared ambition.",
+    "icon": "https://rayo-nextjs-creative-template.netlify.app/_next/image?url=%2Fimg%2Ficons%2Fh70_appr-04.webp&w=640&q=75"
+  },
+  {
+    "title": "Impact",
+    "description": "Success is measured by the value and growth we generate for our clients.",
+    "icon": "https://rayo-nextjs-creative-template.netlify.app/_next/image?url=%2Fimg%2Ficons%2Fh70_appr-05.webp&w=640&q=75"
+  }
+]
+}

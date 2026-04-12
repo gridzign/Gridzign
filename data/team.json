@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "name": "Helen Pineapple",
+    "position": ".",
+    "image": {
+      "src": "https://rayo-nextjs-creative-template.netlify.app/_next/image?url=%2Fimg%2Fteam%2F800x920_team-06.webp&w=1920&q=75",
+      "alt": "Helen Pineapple",
+      "width": 800,
+      "height": 920
+    },
+    "socials": [
+      {
+        "name": "Linkedin",
+        "url": "/contact"
+      },
+      {
+        "name": "Behance",
+        "url": "/contact"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Alex Tomato",
+    "position": ".",
+    "image": {
+      "src": "https://rayo-nextjs-creative-template.netlify.app/_next/image?url=%2Fimg%2Fteam%2F800x920_team-05.webp&w=1920&q=75",
+      "alt": "Alex Tomato",
+      "width": 800,
+      "height": 920
+    },
+    "socials": [
+      {
+        "name": "Linkedin",
+        "url": "/contact"
+      },
+      {
+        "name": "Figma Community",
+        "url": "/contact"
+      }
+    ]
+  }
+]
